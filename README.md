@@ -13,4 +13,4 @@ https://github.com/SalilKoner/salilkoner.github.io/
 
 And, soon, you can see my customized homepage at:
 
-http://salilkoner.github.io/
+https://salilkoner.github.io/
