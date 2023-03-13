@@ -1,1 +1,1 @@
-Repository for my personal website which was shamelessly forked from [Guna Prasaad](http://gunaprsd.github.io/).
+Repository for my personal website which was shamelessly forked from [Jonathan P Williams](https://jonathanpw.github.io/).
